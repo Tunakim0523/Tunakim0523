@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tunakim0523
 - 👀 I’m Marketer 
-- 📫 Contact : 'tunakim0523@gmail.com'
+- 📫 Contact me on 'tunakim0523@gmail.com'
 
 <!---
 Tunakim0523/Tunakim0523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
